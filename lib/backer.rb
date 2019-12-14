@@ -8,4 +8,4 @@ class Backer
   
   def backed_project(project)
     @backed_projects << project
-    prjoect.add
+    prjoect.add_backer
